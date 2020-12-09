@@ -4,7 +4,7 @@
 	"type": "library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-assets": "1.9.1",
+		"automattic/jetpack-assets": "1.10.0",
 		"automattic/jetpack-connection": "1.21.1",
 		"automattic/jetpack-logo": "1.4.0",
 		"automattic/jetpack-constants": "1.5.1",
