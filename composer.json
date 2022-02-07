@@ -25,7 +25,6 @@
 			"src/"
 		]
 	},
-	"repositories": [],
 	"scripts": {
 		"build-production": [
 			"pnpm run build-production"
