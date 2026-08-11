@@ -11,7 +11,7 @@
 		"automattic/jetpack-device-detection": "^3.4.5",
 		"automattic/jetpack-logo": "^3.0.9",
 		"automattic/jetpack-redirect": "^3.0.15",
-		"automattic/jetpack-status": "^6.2.1"
+		"automattic/jetpack-status": "^6.3.0-alpha"
 	},
 	"require-dev": {
 		"brain/monkey": "^2.6.2",
