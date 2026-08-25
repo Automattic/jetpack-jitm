@@ -4,19 +4,19 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"php": ">=7.2",
-		"automattic/jetpack-a8c-mc-stats": "^3.0.10",
-		"automattic/jetpack-assets": "^4.4.11",
-		"automattic/jetpack-connection": "^8.12.0",
-		"automattic/jetpack-device-detection": "^3.4.6",
-		"automattic/jetpack-logo": "^3.0.9",
-		"automattic/jetpack-redirect": "^3.0.15",
-		"automattic/jetpack-status": "^6.5.0"
+		"php": ">=7.4",
+		"automattic/jetpack-a8c-mc-stats": "^4.0.0-alpha",
+		"automattic/jetpack-assets": "^5.0.0-alpha",
+		"automattic/jetpack-connection": "^9.0.0-alpha",
+		"automattic/jetpack-device-detection": "^4.0.0-alpha",
+		"automattic/jetpack-logo": "^4.0.0-alpha",
+		"automattic/jetpack-redirect": "^4.0.0-alpha",
+		"automattic/jetpack-status": "^7.0.0-alpha"
 	},
 	"require-dev": {
 		"brain/monkey": "^2.6.2",
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/phpunit-select-config": "^1.0.9"
+		"automattic/phpunit-select-config": "^1.0.10-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -56,7 +56,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-jitm/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "4.3.x-dev"
+			"dev-trunk": "5.0.x-dev"
 		}
 	}
 }
