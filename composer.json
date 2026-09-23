@@ -6,12 +6,12 @@
 	"require": {
 		"php": ">=7.4",
 		"automattic/jetpack-a8c-mc-stats": "^4.0.0",
-		"automattic/jetpack-assets": "^5.0.5",
-		"automattic/jetpack-connection": "^9.6.0-alpha",
+		"automattic/jetpack-assets": "^5.0.6",
+		"automattic/jetpack-connection": "^9.7.0-alpha",
 		"automattic/jetpack-device-detection": "^4.0.0",
 		"automattic/jetpack-logo": "^4.0.1",
 		"automattic/jetpack-redirect": "^4.0.0",
-		"automattic/jetpack-status": "^7.0.1"
+		"automattic/jetpack-status": "^7.0.2"
 	},
 	"require-dev": {
 		"brain/monkey": "^2.6.2",
